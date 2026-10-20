@@ -6,9 +6,11 @@
 /*   By: gsimon-s <gsimon-s@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/19 09:15:37 by gsimon-s          #+#    #+#             */
-/*   Updated: 2026/10/19 09:24:05 by gsimon-s         ###   ########.fr       */
+/*   Updated: 2026/10/20 16:01:03 by gsimon-s         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "libft.h"
 
 char	*ft_strchr(const char *s, int c)
 {
