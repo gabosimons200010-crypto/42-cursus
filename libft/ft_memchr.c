@@ -6,7 +6,7 @@
 /*   By: gsimon-s@student.42barcelona.com           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/21 19:25:11 by gsimon-s          #+#    #+#             */
-/*   Updated: 2026/10/21 21:07:41 by gsimon-s         ###   ########.fr       */
+/*   Updated: 2026/10/27 13:34:32 by gsimon-s         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -26,5 +26,4 @@ void	*ft_memchr(const void *s, int c, size_t n)
 		i++;
 	}
 	return (NULL);
-}
 }
